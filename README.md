@@ -24,8 +24,25 @@ A user story is a small self-contained plain-language explanation of a feature o
  
 # Task 3 - Role Assignments and Ceremonies
 
-  * We are getting ready to begin building the initial version of an interplanetary video conferencing app. There are several Agile methodology process frameworks and as a team have
+  * Getting ready to begin building the initial version of an interplanetary video conferencing app. There are several Agile methodology process frameworks and as a team have
 decided to use one of the most popular process frameworks: Scrum.
+
+  * THE TASK IS: Preparation for the project need to explain to the rest of the team role assignments and ceremonies in Scrum.
+    
+  * ROLE ASSIGNMENTS: Describe what the responsibilities are for each role.
+    
+      * Product Owner
+      * Scrum Master
+      * Development Team
+        
+  * CEREMONIES: Describe who needs to attend, when the event happens, how long the event takes, if it's a recurring event and what the purpose is.
+
+    * Sprint Planning
+    * Daily stand-up
+    * Sprint Review
+    * Sprint Retrospective 
+
+# TASK 4 - Agile Tools and Concepts
 
       * jkiii
     
