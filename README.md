@@ -43,16 +43,20 @@ A user story is a small self-contained plain-language explanation of a feature o
 
 # TASK 4 - Agile Tools and Concepts
 
-  * 
+  * TASK BACKGROUND INFORMATION: Begin building the initial version of the interplanetary video-conferencing app. It is time to take a close look at software tools that we can use to manage our Agile Project.
 
-      * jkiii
-    
+# Task 5 - Agile Curve Balls
 
-  
+  * TASK BACKGROUND INFORMATION: While training on Earth, astronauts spend most of their time running through hypothetical scenarios of how things might go wrong. We need to do the same. what is broken in the development process and suggest a remedy.
 
+  * Scenario 1: The team has a scheduled daily stand-up at 9 am in the morning. The meetings usually take over an hour. A lot of time is spent discussing a tricky dependency between several tasks that requires extensive conversation.
 
+ * Scenario 2: In the beginning of the sprint the tasks were picked up by the development team. However, by the middle of the sprint, development team starts to look to Scrum Master to assign tasks to individual developers.
 
+ * Scenario 3: If a development team member needs to discuss a task with the Product Owner, the developer approaches Scrum Master to help set up a meeting with the Product Owner.
 
+ * Scenario 4: The team is using the latest Agile Application Lifecycle Management tool because it is supposed to be most effective. However, most of the team is having hard time getting used to the tool.
 
+# Task 6 -  Agile Methodology Review and Additional Resources
 
-
+ * TASK BACKGROUND INFORMATION: In this task, we are going to look back at what was discussed during the program and do a recap.
