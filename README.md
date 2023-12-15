@@ -24,7 +24,7 @@ A user story is a small self-contained plain-language explanation of a feature o
  
 # Task 3 - Role Assignments and Ceremonies
 
-  * TASK BACKGROUND INFORMATION:Getting ready to begin building the initial version of an interplanetary video conferencing app. There are several Agile methodology process frameworks and as a team have decided to use one of the most popular process frameworks: Scrum.
+  * TASK BACKGROUND INFORMATION: Getting ready to begin building the initial version of an interplanetary video conferencing app. There are several Agile methodology process frameworks and as a team have decided to use one of the most popular process frameworks: Scrum.
 
   * THE TASK IS: Preparation for the project need to explain to the rest of the team role assignments and ceremonies in Scrum.
     
@@ -42,6 +42,8 @@ A user story is a small self-contained plain-language explanation of a feature o
     * Sprint Retrospective 
 
 # TASK 4 - Agile Tools and Concepts
+
+  * 
 
       * jkiii
     
