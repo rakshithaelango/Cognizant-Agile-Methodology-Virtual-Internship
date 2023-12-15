@@ -27,6 +27,8 @@ A user story is a small self-contained plain-language explanation of a feature o
   * We are getting ready to begin building the initial version of an interplanetary video conferencing app. There are several Agile methodology process frameworks and as a team have
 decided to use one of the most popular process frameworks: Scrum.
 
+   *k
+    
 
   
 
