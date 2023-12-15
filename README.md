@@ -5,7 +5,7 @@ CERTIFICATE:
 
 # Task 1 - Waterfall vs Agile
 
-* Mainly,This project is designed TO LEARN, WORK ON, and PRESENT INFORMATION about Agile.
+* Mainly,This Task-1 is designed TO LEARN, WORK ON, and PRESENT INFORMATION about Agile / Waterfall Model.
   
    * Waterfall vs Agile
    * Comparative Analysis Of Two Methodologies (Waterfall vs Agile)
@@ -23,4 +23,16 @@ A user story is a small self-contained plain-language explanation of a feature o
   * Utilizing the task at hand, Aim to generate user stories.
  
 # Task 3 - Role Assignments and Ceremonies
+
+  * We are getting ready to begin building the initial version of an interplanetary video conferencing app. There are several Agile methodology process frameworks and as a team have
+decided to use one of the most popular process frameworks: Scrum.
+
+
   
+
+
+
+
+
+
+
